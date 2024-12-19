@@ -30,8 +30,6 @@ Bernardo's Lab is a personal space where I work on various projects and experime
 
 #
 
-#
-
 
 <details open> 
   <summary><h2>📚 Our Top Projects</h2></summary>
